@@ -1,0 +1,26 @@
+[
+  {"titulo": "Telemedicina Noturna Geral",
+    "vagas": 45,
+    "descricao": "Consultas virtuais com clínicos gerais para sintomas leves, funcionando das 18h às 06h."
+  },
+  {"titulo": "Check-up Cardiológico Preventivo",
+    "vagas": 20,
+    "descricao": "Rastreamento ativo de hipertensão e exames de eletrocardiograma para o público acima de 45 anos."
+  },
+  {"titulo": "Oficina de Saúde Mental e Burnout",
+    "vagas": 15,
+    "descricao": "Sessões em grupo com psicólogos focadas em gerenciamento de estresse e ansiedade."
+  },
+  {"titulo": "Triagem Auditiva Infantil",
+    "vagas": 30,
+    "descricao": "Exames de audiometria para crianças em idade escolar para diagnóstico precoce de falhas auditivas."
+  },
+  {"titulo": "Programa de Apoio ao Tabagismo",
+    "vagas": 25,
+    "descricao": "Encontros semanais com entrega de adesivos de nicotina e suporte multidisciplinar."
+  },
+  {"titulo": "Mutirão de Ultrassonografia Pélvica",
+    "vagas": 50,
+    "descricao": "Atendimento concentrado aos sábados para zerar a fila de espera do município."
+  }
+]

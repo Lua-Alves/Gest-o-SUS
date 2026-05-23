@@ -1,0 +1,26 @@
+[
+  {"nome": "Centro de Monitoramento por IA",
+    "foto": "https://images.pexels.com/photos/256219/pexels-photo-256219.jpeg",
+    "descricao": "Central que utiliza inteligência artificial para prever picos de demanda em prontos-socorros."
+  },
+  {"nome": "Tomógrafo Computadorizado de Última Geração",
+    "foto": "https://centromedicoabc.com/wp-content/uploads/2022/05/tomografo-scaled.jpg",
+    "descricao": "Equipamento capaz de realizar varreduras completas em menos de 2 minutos com baixa emissão de radiação."
+  },
+  {"nome": "Medicamento Monoclonal 'SaudeX'",
+    "foto": "https://summitsaude.estadao.com.br/wp-content/uploads/2023/02/o-tocilizumabe-e-um-medicamento-intravenoso-font.jpeg",
+    "descricao": "Terapia biológica recém-incorporada para o tratamento de doenças autoimunes graves."
+  },
+  {"nome": "Van da Saúde Conectada (Unidade Móvel)",
+    "foto": "https://promedsa.com.br/wp-content/uploads/2025/08/tipos-de-ambulancia.webp",
+    "descricao": "Veículo equipado com antenas de internet via satélite para levar exames digitais a zonas rurais."
+  },
+  {"nome": "Robô Assistente de Triagem 'Anjo-01'",
+    "foto": "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg",
+    "descricao": "Dispositivo automatizado para checagem inicial de temperatura, pressão e saturação na entrada do hospital."
+  },
+  {"nome": "Sensores de Glicemia Contínua Adesivos",
+    "foto": "https://3albe.com.br/wp-content/uploads/2024/06/3451699.jpg",
+    "descricao": "Dispositivos que eliminam a necessidade de picada no dedo para pacientes diabéticos de alto risco."
+  }
+]

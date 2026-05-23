@@ -1,0 +1,26 @@
+[
+  {"unidade": "UPA Central Dr. Arnaldo",
+    "positivo": "Excelente tempo de resposta no protocolo de AVC e equipe de enfermagem altamente elogiada.",
+    "negativo": "Ar-condicionado central quebrado na ala de repouso e alta rotatividade de médicos plantonistas."
+  },
+  {"unidade": "UBS Vila das Flores",
+    "positivo": "Cobertura de 100% das famílias da região pelas equipes de agentes comunitários de saúde.",
+    "negativo": "Falta crônica de insumos básicos como tiras de teste de glicose e agulhas para vacina."
+  },
+  {"unidade": "Hospital Municipal Metropolitano",
+    "positivo": "Maternidade de referência com estrutura moderna para parto humanizado.",
+    "negativo": "Gargalo crítico no tempo de espera para liberação de leitos de UTI pós-cirúrgicos."
+  },
+  {"unidade": "UBS Jardim Alvorada",
+    "positivo": "Prontuário eletrônico totalmente implantado e farmácia interna sempre organizada.",
+    "negativo": "Prédio antigo com infiltrações severas nos consultórios odontológicos em dias de chuva."
+  },
+  {"unidade</td>": "Centro de Atenção Psicossocial (CAPS) Leste",
+    "positivo": "Oficinas terapêuticas e de reintegração social com altíssima taxa de adesão dos pacientes.",
+    "negativo": "Dificuldade de agendamento com psiquiatras, gerando uma fila de espera de quase 4 meses."
+  },
+  {"unidade": "Pronto-Atendimento Infantil Norte",
+    "positivo": "Ambiente lúdico e acolhedor que diminui consideravelmente o estresse das crianças de trauma.",
+    "negativo": "Falta de pediatras especialistas em regime de plantão nos finais de semana."
+  }
+]
